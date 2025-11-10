@@ -124,7 +124,7 @@ $(function () {
             allowedPageSizes: [10, 15, 20, 25, 50, 100],
         },
         searchPanel: {
-            visible: true,
+            visible: false,
             highlightCaseSensitive: true,
         },
         elementAttr: {
